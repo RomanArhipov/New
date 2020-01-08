@@ -1,0 +1,41 @@
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\bin\Debug\Fabricmethod.exe
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\bin\Debug\Fabricmethod.pdb
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\obj\Debug\Fabricmethod.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\obj\Debug\Fabricmethod.exe
+C:\Users\Student\Desktop\Fabricmethod\Fabricmethod\obj\Debug\Fabricmethod.pdb
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\bin\Debug\Fabricmethod.exe
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\bin\Debug\Fabricmethod.pdb
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\obj\Debug\Fabricmethod.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\obj\Debug\Fabricmethod.exe
+C:\Users\Igor\Desktop\Fabricmethod — копия\Fabricmethod\obj\Debug\Fabricmethod.pdb
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.pdb
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.exe
+C:\Users\Igor\Desktop\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.pdb
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.pdb
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csproj.CoreCompileInputs.cache
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.exe
+E:\down\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.pdb
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.pdb
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.exe
+C:\Users\Андрей\Desktop\gfhgf\BuilderFabrichMethod2\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.pdb
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe.config
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.exe
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\bin\Debug\Fabricmethod.pdb
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.csprojAssemblyReference.cache
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.exe
+C:\Users\yapfc\OneDrive\Desktop\Новая папка\BuilderFabrichMethod2\Fabricmethod\obj\Debug\Fabricmethod.pdb
