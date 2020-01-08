@@ -1,0 +1,11 @@
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/bin/Debug/netcoreapp2.1/DZ2.deps.json
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/bin/Debug/netcoreapp2.1/DZ2.runtimeconfig.json
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/bin/Debug/netcoreapp2.1/DZ2.runtimeconfig.dev.json
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/bin/Debug/netcoreapp2.1/DZ2.dll
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/bin/Debug/netcoreapp2.1/DZ2.pdb
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.csprojAssemblyReference.cache
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.csproj.CoreCompileInputs.cache
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.AssemblyInfoInputs.cache
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.AssemblyInfo.cs
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.dll
+/Users/out-aliev-rt/Desktop/DZ2/DZ2/obj/Debug/netcoreapp2.1/DZ2.pdb

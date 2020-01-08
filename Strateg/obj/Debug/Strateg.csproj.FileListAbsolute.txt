@@ -1,0 +1,5 @@
+/Users/out-arkhipov-ra/Projects/Strateg/obj/Debug/Strateg.csprojAssemblyReference.cache
+/Users/out-arkhipov-ra/Projects/Strateg/bin/Debug/Strateg.exe
+/Users/out-arkhipov-ra/Projects/Strateg/bin/Debug/Strateg.pdb
+/Users/out-arkhipov-ra/Projects/Strateg/obj/Debug/Strateg.exe
+/Users/out-arkhipov-ra/Projects/Strateg/obj/Debug/Strateg.pdb
